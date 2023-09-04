@@ -145,7 +145,7 @@ nulls = [0,0,0]
 symptoms= [symptoms + nulls]
 # st.write(symptoms)
 
-load_model = pickle.load(open('/mount/src/godoc/model.pkl', 'rb'))
+load_model = pickle.load(open('model.pkl', 'rb'))
 st.markdown("---")
 if st.button("Predict", type="primary", use_container_width =True):
     if all(v == 0 for v in symptoms[0]):
