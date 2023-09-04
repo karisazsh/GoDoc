@@ -66,7 +66,7 @@ scipy==1.10.1
 six==1.16.0
 smmap==5.0.0
 stack-data==0.6.2
-streamlit @ file:///D:/ML_Eng/eHealth_compfest/sumbit_soon_4sept/frontend/30days-i18n/streamlit-1.21.0-py2.py3-none-any.whl#sha256=322bb6dcb7416830e08aa2f1d310c8e3c6ecfbef3cd8bedb21b54f81564cd4f0
+streamlit 
 threadpoolctl==3.2.0
 toml==0.10.2
 toolz==0.12.0
